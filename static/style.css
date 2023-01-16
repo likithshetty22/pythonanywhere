@@ -1,0 +1,17 @@
+body {
+    background-image: url('background.jpg');
+    /* background-color: aquamarine; */
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.heading {
+    
+    text-align: center;
+    color: rgba(213, 230, 137, 0.84);
+    font-size: 100px;
+    margin-top: 15%;
+    font-family: 'Ultra', serif;;
+}
